@@ -12,6 +12,10 @@ private foundations, and other entities.
 The website is created and maintained by [Vipul Naik](http://effective-altruism.com/user/vipulnaik/),
 with contributions from me (Issa Rice).
 
+The aim of this post is to introduce DLW to the world.
+DLW has been in development since [January 2017](https://github.com/vipulnaik/donations/commit/34ab85f9336c48231f0ec0258f7556df953fdb81),
+and is planned for launch by the end of December 2019.
+
 The first half of this post gives a tutorial of DLW, focusing especially on
 parts that are not obvious.
 The second half of this post is a request for feedback.
@@ -75,7 +79,14 @@ Currently, the possible values are:
 * [empty value](https://donations.vipulnaik.com/) (the default), which restricts
   donations to the top 30 donors, donees, and cause areas.
 
+## About page
+
+https://donations.vipulnaik.com/about/
+
 # Request for feedback
+
+This section is an official request for feedback from readers of this forum.
+
 ## Did you already know about DLW? Do you use it for anything?
 ## Potential new features - what are your thoughts?
 ### More foundation giving data
