@@ -49,17 +49,38 @@ For this, DLW has a donor–donee page for each such pair.
 An example of this is the page for
 [Open Philanthropy Project donations made to the Machine Intelligence Research Institute](https://donations.vipulnaik.com/donorDonee.php?donor=Open+Philanthropy+Project&donee=Machine+Intelligence+Research+Institute).
 
-## influencer.php
+## Influencer page
+
+The influencer page looks at the amount of money influenced (a.k.a. the "money moved") by an entity.
+This is tracked separately from donations, so it is possible to compare the
+amount of money moved that is *claimed* with the amount of money moved that is
+actually accounted for.
+The only entity for which we currently track money moved information is GiveWell.
+You can see amount accounted vs amount of influence claimed in the [money moved table](https://donations.vipulnaik.com/influencer.php?influencer=GiveWell#influencerMoneyMovedList).
 
 https://donations.vipulnaik.com/influencer.php?influencer=Chloe+Cockburn
 
 ## cause area filter
-## display parameter on main page
+## Display parameter on main page
+
+The main page of DLW has an optional parameter called `display` that changes
+the kind and amount of donations listed.
+Currently, the possible values are:
+
+* [`individual-scale`](https://donations.vipulnaik.com/?display=individual-scale),
+  which displays donations made by individuals (in other words, excluding
+  donations made by private foundations and other group entities).
+* [`full`](https://donations.vipulnaik.com/?display=full),
+  which displays all donations tracked by DLW.
+* [empty value](https://donations.vipulnaik.com/) (the default), which restricts
+  donations to the top 30 donors, donees, and cause areas.
+
 # Request for feedback
 ## Did you already know about DLW? Do you use it for anything?
 ## Potential new features - what are your thoughts?
 ### More foundation giving data
 ### More individual giving data
 ### Aggregation of info on things like giver's dilemma
+### better classification of cause areas
 ### (list some other stuff)
 ## What other features do you want?
