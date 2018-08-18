@@ -92,6 +92,18 @@ This section is an official request for feedback from readers of this forum.
 ### More foundation giving data
 ### More individual giving data
 ### Aggregation of info on things like giver's dilemma
+
+I think something that would be interesting for me, as part of DLW or as a
+standalone thing, would be to more systematically look at the considerations
+donors make, like now-vs-later, which population ethics to use, donor
+coordination/giver's dilemma, single-donee vs diversification, use of DAF, size
+of average donation (out of total wealth), fund-yourself vs fund-others, what
+entities they see as "equal" in terms of wellbeing (all animals? all humans?
+all people with certain IQ or ability?), etc.
+
+I want to answer questions like "Where and how do people who give consideration
+to the giver's dilemma donate?"
+
 ### better classification of cause areas
 ### (list some other stuff)
 ## What other features do you want?
