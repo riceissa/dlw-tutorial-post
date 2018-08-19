@@ -10,11 +10,14 @@ date: 2018-08-18
 the donations of individuals (mostly in the effective altruism and rationality communities),
 private foundations, and other entities.
 The website is created and maintained by [Vipul Naik](http://effective-altruism.com/user/vipulnaik/),
-with contributions from me (Issa Rice).
+with [contributions](https://contractwork.vipulnaik.com/venue.php?venue=Donations+list+website)
+from me (Issa Rice).
 
-The aim of this post is to introduce DLW to the world.
-DLW has been in development since [January 2017](https://github.com/vipulnaik/donations/commit/34ab85f9336c48231f0ec0258f7556df953fdb81),
+The aim of this post is to introduce DLW to the world and gather some feedback.
+DLW has been in active development since [January 2017](https://github.com/vipulnaik/donations/commit/34ab85f9336c48231f0ec0258f7556df953fdb81),
 and is planned for launch by the end of December 2019.
+At the moment DLW is in a pre-release state, where Vipul and I are adding
+both data and features to the site.
 
 The first half of this post gives a tutorial of DLW, focusing especially on
 parts that are not obvious.
