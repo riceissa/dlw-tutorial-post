@@ -69,7 +69,21 @@ You can see amount accounted vs amount of influence claimed in the [money moved 
 
 https://donations.vipulnaik.com/influencer.php?influencer=Chloe+Cockburn
 
-## cause area filter
+## Cause area filter
+
+Most pages on DLW accept an optional cause area parameter called `cause_area_filter`.
+Using this parameter filters the donations to show only those with a matching
+cause area.
+
+To give some examples:
+
+* [Open Philanthropy Project's AI safety donations](https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project&cause_area_filter=AI+safety) (note the `cause_area_filter=AI+safety` in the URL)
+* [AI safety donations in general](https://donations.vipulnaik.com/?cause_area_filter=AI+safety)
+  (note the `cause_area_filter=AI+safety` in the URL)
+* influencer example?
+
+Donee pages don't have this option, because most donees only work within a single cause area.
+
 ## Display parameter on main page
 
 The main page of DLW has an optional parameter called `display` that changes
