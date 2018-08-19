@@ -7,7 +7,8 @@ date: 2018-08-18
 # Introduction
 
 [Donations List Website](https://donations.vipulnaik.com/) (DLW) is a website that tracks
-the donations of individuals (mostly in the effective altruism and rationality communities),
+the public or explicitly shared donations of individuals
+(mostly in the effective altruism and rationality communities),
 private foundations, and other entities.
 The website is created and maintained by [Vipul Naik](http://effective-altruism.com/user/vipulnaik/),
 with [contributions](https://contractwork.vipulnaik.com/venue.php?venue=Donations+list+website)
@@ -92,6 +93,14 @@ https://donations.vipulnaik.com/about/
 This section is an official request for feedback from readers of this forum.
 
 ## Did you already know about DLW? Do you use it for anything?
+
+
+I will talk a little about my own experience using DLW.
+I've found it useful for...
+
+* doing PW/OW work
+* doing some experimental data exploration (example: indirect flow of money from Open Phil to MIRI, by combining DLW with OW)
+
 ## Potential new features - what are your thoughts?
 ### More foundation giving data
 ### More individual giving data
