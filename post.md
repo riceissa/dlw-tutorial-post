@@ -41,8 +41,8 @@ For Open Philanthropy Project in particular, there is a [table of disclosures](h
 ## Donee page
 
 Each donee tracked by DLW has a donee page.
-An example is the donee page for
-[LessWrong 2.0](https://donations.vipulnaik.com/donee.php?donee=LessWrong+2.0).
+An example is the [donee page for
+LessWrong 2.0](https://donations.vipulnaik.com/donee.php?donee=LessWrong+2.0).
 
 Some entities are both a donor and a donee, in which case there will be separate pages:
 
