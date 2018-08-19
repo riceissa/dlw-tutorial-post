@@ -2,7 +2,7 @@
 # stripped version without header info, for posting to EA Forum
 stripped.html: post.md
 	pandoc --template=tem.html --base-header=2 --toc \
-		-f commonmark+smart -t html \
+		-f markdown+smart -t html \
 		-o "$@" "$<"
 
 .PHONY: clean
