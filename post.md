@@ -52,7 +52,7 @@ for each role:
 
 ## Donor–donee page
 
-It is sometimes interesting to look at a specific donor–donee pair and see all the donations made by the donor to the donee, their relationship, etc.
+It is sometimes interesting to look at a specific donor–donee pair and see all the donations made by the donor to the donee, their relationship, a list of documents that mention both of them, and so on.
 For this, DLW has a donor–donee page for each such pair.
 An example of this is the page for
 [Open Philanthropy Project donations made to the Machine Intelligence Research Institute](https://donations.vipulnaik.com/donorDonee.php?donor=Open+Philanthropy+Project&donee=Machine+Intelligence+Research+Institute).
