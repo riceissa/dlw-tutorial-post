@@ -111,3 +111,9 @@ to the giver's dilemma donate?"
 ### better classification of cause areas
 ### (list some other stuff)
 ## What other features do you want?
+
+# Appendix: history of DLW
+
+(maybe include this part)
+
+site structure inspired by https://contractwork.vipulnaik.com/ and Wikipedia Views
