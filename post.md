@@ -149,22 +149,34 @@ Good Ventures/Open Philanthropy Project, and Ford Foundation.
 However, there are many more foundations whose donations we could track.
 
 ### More individual giving data
-### Aggregation of info on things like giver's dilemma
 
-I think something that would be interesting for me, as part of DLW or as a
-standalone thing, would be to more systematically look at the considerations
-donors make, like now-vs-later, which population ethics to use, donor
-coordination/giver's dilemma, single-donee vs diversification, use of DAF, size
-of average donation (out of total wealth), fund-yourself vs fund-others, what
-entities they see as "equal" in terms of wellbeing (all animals? all humans?
-all people with certain IQ or ability?), etc.
+### Systematically track considerations that donors make
 
-I want to answer questions like "Where and how do people who give consideration
-to the giver's dilemma donate?"
+Donors concenred with effective giving have many considerations as they
+think through their decision. These include:
+
+* Giving now vs later
+* Donor coordination and giver's dilemma
+* Donating to a single charity vs multiple charities
+* How to weigh local knowledge vs analyses published by others
+* How much weight to place on cost-effectiveness calculations vs less quantitative forms of modeling and reasoning
+* Using a donor-advised fund
+* Size of average donation (relative to total wealth)
+* Which population ethics to use
+* Which worldviews to use, and what entities they see as "equal" (all animals? all humans?
+all people with certain IQ or ability?)
+
+Currently, the reasoning above the above is scattered across many different blog posts, comments, articles, and so forth.
+It is difficult to answer questions like "Where and how do people who give consideration
+to the giver's dilemma donate?" and "Where do people who share my population ethics and worldview donate?"
 
 ### better classification of cause areas
 ### (list some other stuff)
 ## What other features do you want?
+
+# Acknowledgments
+
+Thanks to Vipul Naik for feedback on this post and for funding my work on it.
 
 # Appendix: history of DLW
 
