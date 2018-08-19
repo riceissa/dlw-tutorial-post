@@ -133,8 +133,17 @@ I've found it useful for...
 * doing PW/OW work
 * doing some experimental data exploration (example: indirect flow of money from Open Phil to MIRI, by combining DLW with OW)
 
-## Potential new features - what are your thoughts?
+## Potential improvements – what are your thoughts?
+
+This section lists some potential improvements we've thought of.
+
 ### More foundation giving data
+
+Currently, DLW tracks the giving data of foundations including the
+Bill and Melinda Gates Foundation, Arnold Foundation, Hewlett Foundation,
+Good Ventures/Open Philanthropy Project, and Ford Foundation.
+However, there are many more foundations whose donations we could track.
+
 ### More individual giving data
 ### Aggregation of info on things like giver's dilemma
 
