@@ -81,6 +81,13 @@ To give some examples:
 * [AI safety donations in general](https://donations.vipulnaik.com/?cause_area_filter=AI+safety)
   (note the `cause_area_filter=AI+safety` in the URL)
 * influencer example?
+* Since the cause areas used on DLW track sub-cause areas as well, it is possible to use it a little
+  like a search feature. For example, using [`cause_area_filter=chicken` on Open Philanthropy Project
+  donations](https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project&cause_area_filter=chicken)
+  shows all donations that have the string "chicken" somewhere in the cause area.
+* The cause area filter supports [regular expressions](https://en.wikipedia.org/wiki/Regular_expression),
+  so for example you can search for [all Open Philanthropy Project donations with cause area containing "AI safety" or "chicken"](https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project&cause_area_filter=AI+safety|chicken).
+  (This example is a bit silly and I'm not aware of a better example.)
 
 Donee pages don't have this option, because most donees only work within a single cause area.
 
