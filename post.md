@@ -184,8 +184,9 @@ and [list of classifications of philanthropy](https://causeprioritization.org/Li
 on the [Cause Prioritization Wiki](https://causeprioritization.org/)),
 but this sort of work is also valuable for better classifying donations.
 
-### (list some other stuff)
 ## What other features do you want?
+
+We are interested in hearing ideas other than the ones we listed.
 
 # Acknowledgments
 
