@@ -91,6 +91,17 @@ https://donations.vipulnaik.com/about/
 # Request for feedback
 
 This section is an official request for feedback from readers of this forum.
+Vipul and I want to make DLW as useful as possible to people who think about
+effective giving, flow of money in the non-profit world, real-world decision making,
+and other topics. To help us decide what improvements to prioritize, we would like
+to hear from you what excites you most about DLW, what you could see yourself
+using it for, what improvements would make you use it more, and so on.
+
+Below, we provide some structure for feedback. We would appreciate feedback as (1) comments
+to this post, or (2) submissions to [this Google Form]() (TODO: add link).
+The differences between the two are that
+the Google Form has fields for each question (more structure),
+can be submitted anonymously, and responses will not be shared publicly.
 
 ## Did you already know about DLW? Do you use it for anything?
 
