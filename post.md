@@ -20,15 +20,15 @@ At the moment DLW is in a pre-release state, where Vipul and I are adding
 both data and features to the site.
 
 The first half of this post gives a tutorial of DLW, focusing especially on
-parts that are not obvious.
-The second half of this post is a request for feedback.
+the features of the site that are not obvious to casual inspection.
+The second half of this post is a request for feedback;
 Vipul and I are interested in using the feedback to help us decide where to
-focus our efforts.
+focus our efforts for future development.
 
 # Tutorial
 
 This section is a tutorial of the main features of Donations List Website
-(DLW), with a focus on the parts that are not obvious.
+(DLW), with a focus on the parts that are probably non-obvious to casual users.
 
 ## Donor page
 
