@@ -170,7 +170,20 @@ Currently, the reasoning above the above is scattered across many different blog
 It is difficult to answer questions like "Where and how do people who give consideration
 to the giver's dilemma donate?" and "Where do people who share my population ethics and worldview donate?"
 
-### better classification of cause areas
+### Better classification of cause areas
+
+Although donations on DLW are usually tagged with a cause area, so far this has
+been done in a somewhat ad hoc manner, so there are some problems like:
+
+* The same cause area being phrased in different ways
+* The cause area hierarchy being a mess
+
+I did some work on this previously in a cause prioritization context
+(see entries for [cause area classification](https://causeprioritization.org/Cause_area_classification)
+and [list of classifications of philanthropy](https://causeprioritization.org/List_of_classifications_of_philanthropy)
+on the [Cause Prioritization Wiki](https://causeprioritization.org/)),
+but this sort of work is also valuable for better classifying donations.
+
 ### (list some other stuff)
 ## What other features do you want?
 
