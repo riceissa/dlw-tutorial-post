@@ -34,6 +34,7 @@ This section is a tutorial of the main features of Donations List Website
 ## Donor page
 
 Each donor tracked by DLW has a donor page.
+Donor pages have the path starting with `/donor.php`.
 An example is the [donor page for the Open Philanthropy
 Project](https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project).
 
@@ -42,6 +43,7 @@ For Open Philanthropy Project in particular, there is a [table of disclosures](h
 ## Donee page
 
 Each donee tracked by DLW has a donee page.
+Donee pages have the path starting with `donee.php`.
 An example is the [donee page for
 LessWrong 2.0](https://donations.vipulnaik.com/donee.php?donee=LessWrong+2.0).
 
@@ -55,6 +57,7 @@ for each role:
 
 It is sometimes interesting to look at a specific donor–donee pair and see all the donations made by the donor to the donee, their relationship, a list of documents that mention both of them, and so on.
 For this, DLW has a donor–donee page for each such pair.
+Donor–donee pages have the path starting with `donorDonee.php`.
 An example of this is the page for
 [Open Philanthropy Project donations made to the Machine Intelligence Research Institute](https://donations.vipulnaik.com/donorDonee.php?donor=Open+Philanthropy+Project&donee=Machine+Intelligence+Research+Institute).
 
@@ -64,6 +67,7 @@ The influencer page looks at the amount of money influenced (a.k.a. the "money m
 This is tracked separately from donations, so it is possible to compare the
 amount of money moved that is *claimed* with the amount of money moved that is
 *actually accounted for*.
+Influencer pages have the path starting with `influencer.php`.
 The only entity for which we currently track money moved information is GiveWell.
 You can see amount accounted vs amount of influence claimed in the [money moved table](https://donations.vipulnaik.com/influencer.php?influencer=GiveWell#influencerMoneyMovedList).
 
