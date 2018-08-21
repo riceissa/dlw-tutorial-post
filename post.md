@@ -203,11 +203,28 @@ but this sort of work is also valuable for better classifying donations.
 
 ### More timely inclusion of giving data (of existing donors/donees)
 
+Even after we add donation data for a donor or donee, new donations
+are made over time, so there is a question of how often DLW should update
+donation data for existing donors and donees.
+Currently the updating schedule is somewhat arbitrary.
+
+We have a [series of steps](https://github.com/vipulnaik/donations/blob/master/data-update-playbook.md)
+for updating existing data for donors and donees.
+
 ### More complete inclusion of giving data (of existing donors/donees)
+
+Occasionally a subset of made by an entity is easy to access, while the rest are not.
+An example of this is the Gates Foundation, where donations tracked through the
+[International Aid Transparency Initiative](https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative)
+are easy to process, but where the rest of the donations are difficult to process at the
+grant level.
 
 ### More documents
 
 ### More graphs
+
+Generally we try to add graphs for each table displayed, but there are some exceptions
+like the donee page.
 
 ### More summarization of existing data
 
