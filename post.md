@@ -133,7 +133,7 @@ reliability concerns for the data.
 # Request for feedback
 
 This section is an official request for feedback from readers of this forum.
-Vipul and I want to make DLW as useful as possible to people who think about
+Vipul and I want to make Donations List Website (DLW) as useful as possible to people who think about
 effective giving, flow of money in the non-profit world, real-world decision making,
 and similar topics. To help us decide what improvements to prioritize, we would like
 to hear from you what excites you most about DLW, what you could see yourself
