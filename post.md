@@ -118,7 +118,8 @@ Donee pages don't have this option, because most donees only work within a singl
 
 ## About page
 
-https://donations.vipulnaik.com/about/
+The [about page](https://donations.vipulnaik.com/about/) discusses how DLW is built and
+reliability concerns for the data.
 
 # Request for feedback
 
