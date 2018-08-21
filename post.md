@@ -158,6 +158,15 @@ However, there are many more foundations whose donations we could track.
 
 ### More individual giving data
 
+### More data about things related to the effective altruism or rationality communities
+
+DLW already has an emphasis on these communities, but there's still more that can be added.
+
+### More money moved data
+
+Currently we have only entered claimed money moved data for GiveWell.
+But there are some other ones like... examples?
+
 ### Systematically track considerations that donors make
 
 Donors concenred with effective giving have many considerations as they
@@ -191,6 +200,14 @@ I did some work on this previously in a cause prioritization context
 and [list of classifications of philanthropy](https://causeprioritization.org/List_of_classifications_of_philanthropy)
 on the [Cause Prioritization Wiki](https://causeprioritization.org/)),
 but this sort of work is also valuable for better classifying donations.
+
+### More timely inclusion of giving data (of existing donors/donees)
+
+### More complete inclusion of giving data (of existing donors/donees)
+
+### More documents
+
+### More graphs
 
 ### More summarization of existing data
 
