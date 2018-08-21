@@ -209,10 +209,10 @@ think through their decision. These include:
 * Donating to a single charity vs multiple charities
 * How to weigh local knowledge vs analyses published by others
 * How much weight to place on cost-effectiveness calculations vs less quantitative forms of modeling and reasoning
-* Using a donor-advised fund
+* Whether to use a donor-advised fund
 * Size of average donation (relative to total wealth)
 * Which population ethics to use
-* Which worldviews to use, and what entities they see as "equal" (all animals? all humans?
+* Which worldviews to use, and what entities to see as "equal" (all animals? all humans?
 all people with certain IQ or ability?)
 
 Currently, the reasoning above the above is scattered across many different blog posts, comments, articles, and so forth.
