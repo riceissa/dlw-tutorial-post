@@ -269,9 +269,10 @@ like the donee page.
 
 ### Summarize existing data more
 
-donor intersection pages, donee intersection pages, etc.
-
-https://github.com/vipulnaik/donations/issues/71
+It might be the case that the data of interest is already part of DLW, but isn't
+presented in the most useful way.
+Examples of this are [donor intersection pages](https://github.com/vipulnaik/donations/issues/71)
+and donee intersection pages, where one wants to compare two specific donors or two specific donees.
 
 ## Other features?
 
@@ -280,9 +281,3 @@ We are interested in hearing ideas other than the ones we listed.
 # Acknowledgments
 
 Thanks to Vipul Naik for feedback on this post and for funding my work on it.
-
-# Appendix: history of DLW
-
-(maybe include this part)
-
-site structure inspired by https://contractwork.vipulnaik.com/ and Wikipedia Views
