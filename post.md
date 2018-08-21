@@ -82,7 +82,8 @@ An example of this is the page for
 
 ## Influencer page
 
-The influencer page looks at the amount of money influenced (a.k.a. the "money moved") by an entity.
+The influencer page looks at the amount of money influenced
+(a.k.a. the "[money moved](https://www.givewell.org/about/impact#MoneyMovedDefinition)") by an entity.
 This is tracked separately from donations, so it is possible to compare the
 amount of money moved that is *claimed* with the amount of money moved that is
 *actually accounted for*.
