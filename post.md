@@ -148,13 +148,21 @@ can be submitted anonymously, and responses will not be shared publicly.
 ## Did you already know about DLW? Do you use it for anything?
 
 To start off, we are curious to get a feel for whether people have already discovered
-DLW (on their own) and whether they use it for anything.
+DLW on their own and whether they use it for anything.
 
 As an example response, I will talk a little about my own experience using DLW.
 I've found it useful for...
 
-* doing PW/OW work
-* seeing some donations i've been curious about aggregated.
+* Since October 2017, I have been working on a website called [AI Watch](https://aiwatch.issarice.com/)
+  that tracks activity in the world of AI safety. More recently, I've expanded the scope of AI Watch
+  to cause areas outside AI safety, resulting in [Org Watch](https://orgwatch.issarice.com/).
+  Having access to data from DLW has helped me find names of people involved in various cause areas,
+  which has made data collection faster for my work on these other websites.
+* I had been curious about the donations of certain individuals (examples:
+  [Vitalik Buterin](https://donations.vipulnaik.com/donor.php?donor=Vitalik+Buterin)
+  and [gwern](https://donations.vipulnaik.com/donor.php?donor=Gwern+Branwen))
+  but as far as I could tell, there was no canonical location listing donations
+  made by them. DLW has solved this problem for me for these individuals.
 * doing some experimental data exploration (example: indirect flow of money from Open Phil to MIRI, by combining DLW with OW)
 
 ## Potential improvements – what are your thoughts?
