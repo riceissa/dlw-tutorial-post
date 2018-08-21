@@ -249,7 +249,8 @@ entities is pretty straightforward.
 
 ### Include giving data (of existing donors/donees) more completely
 
-Occasionally a subset of made by an entity is easy to access, while the rest are not.
+Occasionally a subset of donations made by an entity is easy to access and process by a machine,
+while the rest are not.
 An example of this is the Gates Foundation, where donations tracked through the
 [International Aid Transparency Initiative](https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative)
 are easy to process, but where the rest of the donations are difficult to process at the
