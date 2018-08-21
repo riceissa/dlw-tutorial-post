@@ -1,7 +1,7 @@
 # Donations List Website: tutorial and request for feedback
 
 This repository contains the source for the blog post
-"Donations List Website: tutorial and request for feedback", to be published on the
+["Donations List Website: tutorial and request for feedback"](http://effective-altruism.com/ea/1s3/donations_list_website_tutorial_and_request_for/), published on the
 Effective Altruism Forum.
 
 To compile the post, type:
