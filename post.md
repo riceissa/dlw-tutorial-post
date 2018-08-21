@@ -225,10 +225,9 @@ it with the existing donations data.
 ### Classify cause areas better
 
 Although donations on DLW are usually tagged with a cause area, so far this has
-been done in a somewhat ad hoc manner, so there are some problems like:
-
-* The same cause area being phrased in different ways
-* The cause area hierarchy being a mess
+been done in a somewhat ad hoc manner, so there are some problems like
+the same cause area being phrased in different ways and
+the cause area hierarchy being a mess.
 
 I did some work on this previously in a cause prioritization context
 (see entries for [cause area classification](https://causeprioritization.org/Cause_area_classification)
