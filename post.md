@@ -184,6 +184,12 @@ and [list of classifications of philanthropy](https://causeprioritization.org/Li
 on the [Cause Prioritization Wiki](https://causeprioritization.org/)),
 but this sort of work is also valuable for better classifying donations.
 
+### More summarization of existing data
+
+donor intersection pages, donee intersection pages, etc.
+
+https://github.com/vipulnaik/donations/issues/71
+
 ## What other features do you want?
 
 We are interested in hearing ideas other than the ones we listed.
