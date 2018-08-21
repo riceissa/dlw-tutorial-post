@@ -177,22 +177,22 @@ I've found it useful for the following:
 
 This subsection lists some potential improvements we've thought of.
 
-### More foundation giving data
+### Add more foundation giving data
 
 Currently, DLW tracks the giving data of foundations including the
 Gates Foundation, Arnold Foundation, Hewlett Foundation,
 Good Ventures/Open Philanthropy Project, and Ford Foundation.
 However, there are many more foundations whose donations we could track.
 
-### More individual giving data
+### Add more individual giving data
 
 Similar to the above, there are many individuals whose donations we could track.
 
-### More data about things related to the effective altruism or rationality communities
+### Add more data about things related to the effective altruism or rationality communities
 
 DLW already has an emphasis on these communities, but there's still more that can be added.
 
-### More money moved data
+### Add more money moved data
 
 Currently we have only entered claimed money moved data for GiveWell.
 But there are some other ones like... examples?
@@ -217,7 +217,7 @@ Currently, the reasoning above the above is scattered across many different blog
 It is difficult to answer questions like "Where and how do people who give consideration
 to the giver's dilemma donate?" and "Where do people who share my population ethics and worldview donate?"
 
-### Better classification of cause areas
+### Classify cause areas better
 
 Although donations on DLW are usually tagged with a cause area, so far this has
 been done in a somewhat ad hoc manner, so there are some problems like:
@@ -231,7 +231,7 @@ and [list of classifications of philanthropy](https://causeprioritization.org/Li
 on the [Cause Prioritization Wiki](https://causeprioritization.org/)),
 but this sort of work is also valuable for better classifying donations.
 
-### More timely inclusion of giving data (of existing donors/donees)
+### Include giving data (of existing donors/donees) in a more timely manner
 
 Even after we add donation data for a donor or donee, new donations
 are made over time, so there is a question of how often DLW should update
@@ -241,7 +241,7 @@ Currently the updating schedule is somewhat arbitrary.
 We have a [series of steps](https://github.com/vipulnaik/donations/blob/master/data-update-playbook.md)
 for updating existing data for donors and donees.
 
-### More complete inclusion of giving data (of existing donors/donees)
+### Include giving data (of existing donors/donees) more completely
 
 Occasionally a subset of made by an entity is easy to access, while the rest are not.
 An example of this is the Gates Foundation, where donations tracked through the
@@ -249,20 +249,20 @@ An example of this is the Gates Foundation, where donations tracked through the
 are easy to process, but where the rest of the donations are difficult to process at the
 grant level.
 
-### More documents
+### Add more documents
 
-### More graphs
+### Add more graphs
 
 Generally we try to add graphs for each table displayed, but there are some exceptions
 like the donee page.
 
-### More summarization of existing data
+### Summarize existing data more
 
 donor intersection pages, donee intersection pages, etc.
 
 https://github.com/vipulnaik/donations/issues/71
 
-## What other features do you want?
+## Other features?
 
 We are interested in hearing ideas other than the ones we listed.
 
