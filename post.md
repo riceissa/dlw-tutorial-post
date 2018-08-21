@@ -215,9 +215,12 @@ think through their decision. These include:
 * Which worldviews to use, and what entities to see as "equal" (all animals? all humans?
 all people with certain IQ or ability?)
 
-Currently, the reasoning above the above is scattered across many different blog posts, comments, articles, and so forth.
+Currently, the reasoning above is scattered across many different blog posts, comments, articles, and so forth.
 It is difficult to answer questions like "Where and how do people who give consideration
 to the giver's dilemma donate?" and "Where do people who share my population ethics and worldview donate?"
+
+It seems plausible that DLW could make progress on aggregating some of this discussion and linking
+it with the existing donations data.
 
 ### Classify cause areas better
 
