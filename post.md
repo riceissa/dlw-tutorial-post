@@ -10,7 +10,7 @@ date: 2018-08-20
 the public or explicitly shared donations of individuals
 (mostly in the effective altruism and rationality communities),
 private foundations, and other entities.
-The website is created and maintained by [Vipul Naik](http://effective-altruism.com/user/vipulnaik/),
+The website was created and is maintained by [Vipul Naik](http://effective-altruism.com/user/vipulnaik/),
 with [contributions](https://contractwork.vipulnaik.com/venue.php?venue=Donations+list+website)
 from me (Issa Rice).
 
