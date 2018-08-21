@@ -92,7 +92,7 @@ Foundation or individual donors).
 Influencer pages have a path starting with `/influencer.php`.
 
 The only entity for which we currently track money moved information is GiveWell.
-You can see amount accounted vs amount of influence claimed in the [money moved table](https://donations.vipulnaik.com/influencer.php?influencer=GiveWell#influencerMoneyMovedList).
+You can see amount of money accounted for vs amount of influence claimed in the [money moved table](https://donations.vipulnaik.com/influencer.php?influencer=GiveWell#influencerMoneyMovedList).
 
 Even for non-GiveWell entities, influencer pages exist. An example is
 [Chloe Cockburn](https://donations.vipulnaik.com/influencer.php?influencer=Chloe+Cockburn).
