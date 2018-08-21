@@ -138,16 +138,19 @@ can be submitted anonymously, and responses will not be shared publicly.
 
 ## Did you already know about DLW? Do you use it for anything?
 
+To start off, we are curious to get a feel for whether people have already discovered
+DLW (on their own) and whether they use it for anything.
 
-I will talk a little about my own experience using DLW.
+As an example response, I will talk a little about my own experience using DLW.
 I've found it useful for...
 
 * doing PW/OW work
+* seeing some donations i've been curious about aggregated.
 * doing some experimental data exploration (example: indirect flow of money from Open Phil to MIRI, by combining DLW with OW)
 
 ## Potential improvements – what are your thoughts?
 
-This section lists some potential improvements we've thought of.
+This subsection lists some potential improvements we've thought of.
 
 ### More foundation giving data
 
