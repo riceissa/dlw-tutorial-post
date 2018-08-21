@@ -67,10 +67,10 @@ An example is the [donee page for
 LessWrong 2.0](https://donations.vipulnaik.com/donee.php?donee=LessWrong+2.0).
 
 Some entities are both a donor and a donee, in which case there will be separate pages
-for each role:
+for each role. An example is the Berkeley Existential Risk Initiative (BERI):
 
-* https://donations.vipulnaik.com/donor.php?donor=Berkeley+Existential+Risk+Initiative
-* https://donations.vipulnaik.com/donee.php?donee=Berkeley+Existential+Risk+Initiative
+* [BERI as a donor](https://donations.vipulnaik.com/donor.php?donor=Berkeley+Existential+Risk+Initiative)
+* [BERI as a donee](https://donations.vipulnaik.com/donee.php?donee=Berkeley+Existential+Risk+Initiative)
 
 ## Donor–donee page
 
