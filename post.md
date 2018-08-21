@@ -43,11 +43,11 @@ Currently, the possible values are:
 
 * [`individual-scale`](https://donations.vipulnaik.com/?display=individual-scale),
   which displays donations made by individuals (in other words, excluding
-  donations made by private foundations and other group entities).
+  donations made by private foundations and other group entities)
 * [`full`](https://donations.vipulnaik.com/?display=full),
-  which displays all donations tracked by DLW.
+  which displays all donations tracked by DLW
 * [empty value](https://donations.vipulnaik.com/) (the default), which restricts
-  donations to the top 30 donors, donees, and cause areas.
+  donations to the top 30 donors, donees, and cause areas
 
 ## Donor page
 
