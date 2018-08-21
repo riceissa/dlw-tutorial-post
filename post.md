@@ -38,7 +38,7 @@ aggregated from all donations tracked by the site.
 The main page has the path starting with `/` or `/index.php`.
 
 The main page of DLW has an optional parameter called `display` that changes
-the kind and amount of donations listed.
+the kind and number of donations listed.
 Currently, the possible values are:
 
 * [`individual-scale`](https://donations.vipulnaik.com/?display=individual-scale),
