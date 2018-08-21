@@ -258,6 +258,10 @@ grant level.
 
 ### Add more documents
 
+There has been a lot of discussion over the years about effective giving, personal donations,
+organization updates, and other documents that would belong on DLW.
+We have added only a fraction of the possible documents, so adding more is another option.
+
 ### Add more graphs
 
 Generally we try to add graphs for each table displayed, but there are some exceptions
