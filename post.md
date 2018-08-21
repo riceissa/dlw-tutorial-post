@@ -57,6 +57,7 @@ An example is the [donor page for the Open Philanthropy
 Project](https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project).
 
 For Open Philanthropy Project in particular, there is a [table of disclosures](https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project#donorDonationAmountsByDisclosuresAndYear) (from before it stopped announcing disclosures).
+Currently no other donor has disclosures data.
 
 ## Donee page
 
