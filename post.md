@@ -151,7 +151,7 @@ To start off, we are curious to get a feel for whether people have already disco
 DLW on their own and whether they use it for anything.
 
 As an example response, I will talk a little about my own experience using DLW.
-I've found it useful for...
+I've found it useful for the following:
 
 * Since October 2017, I have been working on a website called [AI Watch](https://aiwatch.issarice.com/)
   that tracks activity in the world of AI safety. More recently, I've expanded the scope of AI Watch
