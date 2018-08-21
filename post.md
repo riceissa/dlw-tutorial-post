@@ -112,7 +112,9 @@ To give some examples:
 * [Open Philanthropy Project's AI safety donations](https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project&cause_area_filter=AI+safety) (note the `cause_area_filter=AI+safety` in the URL)
 * [AI safety donations in general](https://donations.vipulnaik.com/?cause_area_filter=AI+safety)
   (note the `cause_area_filter=AI+safety` in the URL)
-* influencer example?
+* [Chloe Cockburn donations influenced with cause area matching
+  "bail reform"](https://donations.vipulnaik.com/influencer.php?influencer=Chloe+Cockburn&cause_area_filter=bail+reform)
+  (for influencer pages, currently the filtering only works on some of the tables)
 * Since the cause areas used on DLW track sub-cause areas as well, it is possible to use it a little
   like a search feature. For example, using [`cause_area_filter=chicken` on Open Philanthropy Project
   donations](https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project&cause_area_filter=chicken)
