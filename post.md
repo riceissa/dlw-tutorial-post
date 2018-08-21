@@ -163,7 +163,15 @@ I've found it useful for...
   and [gwern](https://donations.vipulnaik.com/donor.php?donor=Gwern+Branwen))
   but as far as I could tell, there was no canonical location listing donations
   made by them. DLW has solved this problem for me for these individuals.
-* doing some experimental data exploration (example: indirect flow of money from Open Phil to MIRI, by combining DLW with OW)
+* One day, I suddenly became curious about the indirect flow of money from
+  Open Philanthropy Project (Open Phil) to the Machine Intelligence Research Institute (MIRI).
+  By "indirect flow of money" I mean not grants that Open Phil has made to
+  MIRI, but where Open Phil grants money to some intermediate entity, who then
+  donates to MIRI. Having access to both the DLW and Org Watch datasets meant I could
+  do some exploration by looking at (1) organizations who had received money from
+  Open Phil, who had also donated to MIRI, and (2) individuals who worked for
+  organizations that received funding from Open Phil, who were also individual
+  MIRI donors.
 
 ## Potential improvements – what are your thoughts?
 
