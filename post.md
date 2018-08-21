@@ -85,8 +85,10 @@ An example of this is the page for
 The influencer page looks at the amount of money influenced
 (a.k.a. the "[money moved](https://www.givewell.org/about/impact#MoneyMovedDefinition)") by an entity.
 This is tracked separately from donations, so it is possible to compare the
-amount of money moved that is *claimed* with the amount of money moved that is
-*actually accounted for*.
+amount of money moved that is *claimed* (gathered from the entity claiming money moved, e.g. GiveWell)
+with the amount of money moved that is
+*actually accounted for* (gathered from the entities making or receiving the donations, e.g. Against Malaria
+Foundation or individual donors).
 Influencer pages have a path starting with `/influencer.php`.
 The only entity for which we currently track money moved information is GiveWell.
 You can see amount accounted vs amount of influence claimed in the [money moved table](https://donations.vipulnaik.com/influencer.php?influencer=GiveWell#influencerMoneyMovedList).
