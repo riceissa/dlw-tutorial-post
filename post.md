@@ -56,7 +56,7 @@ Donor pages have a path starting with `/donor.php`.
 An example is the [donor page for the Open Philanthropy
 Project](https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project).
 
-For Open Philanthropy Project in particular, there is a [table of disclosures](https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project#donorDonationAmountsByDisclosuresAndYear) (from before it stopped announcing disclosures).
+For the Open Philanthropy Project in particular, there is a [table of disclosures](https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project#donorDonationAmountsByDisclosuresAndYear) (from before it stopped announcing disclosures).
 Currently no other donor has disclosures data.
 
 ## Donee page
@@ -144,7 +144,7 @@ on this post, or (2) submissions to
 [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfWp8OZV8lT36jn9r6UwcXr1vq7ON4LkIHE5s4wHEP6vOruwg/viewform?usp=sf_link).
 The differences between the two are that
 the Google Form has fields for each question (more structure),
-can be submitted anonymously, and responses will not be shared publicly.
+can be submitted anonymously, and individual responses will not be shared publicly.
 
 ## Did you already know about DLW? Do you use it for anything?
 
@@ -164,13 +164,13 @@ I've found it useful for the following:
   and [gwern](https://donations.vipulnaik.com/donor.php?donor=Gwern+Branwen))
   but as far as I could tell, there was no canonical location listing donations
   made by them. DLW has solved this problem for me for these individuals.
-* One day, I suddenly became curious about the indirect flow of money from
+* One day, I suddenly became curious about the indirect flow of money from the
   Open Philanthropy Project (Open Phil) to the Machine Intelligence Research Institute (MIRI).
   By "indirect flow of money" I mean not grants that Open Phil has made to
   MIRI, but where Open Phil grants money to some intermediate entity, who then
   donates to MIRI. Having access to both the DLW and Org Watch datasets meant I could
-  do some exploration by looking at (1) organizations who had received money from
-  Open Phil, who had also donated to MIRI, and (2) individuals who worked for
+  do some exploration by looking at (1) organizations that had received money from
+  Open Phil, that had also donated to MIRI, and (2) individuals who worked for
   organizations that received funding from Open Phil, who were also individual
   MIRI donors.
 
@@ -213,7 +213,7 @@ think through their decision. These include:
 * Size of average donation (relative to total wealth)
 * Which population ethics to use
 * Which worldviews to use, and what entities to see as "equal" (all animals? all humans?
-all people with certain IQ or ability?)
+all people with a certain IQ or ability?)
 
 Currently, the reasoning above is scattered across many different blog posts, comments, articles, and so forth.
 It is difficult to answer questions like "Where and how do people who give consideration
