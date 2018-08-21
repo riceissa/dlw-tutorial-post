@@ -186,6 +186,8 @@ However, there are many more foundations whose donations we could track.
 
 ### More individual giving data
 
+Similar to the above, there are many individuals whose donations we could track.
+
 ### More data about things related to the effective altruism or rationality communities
 
 DLW already has an emphasis on these communities, but there's still more that can be added.
