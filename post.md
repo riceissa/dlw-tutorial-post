@@ -200,7 +200,7 @@ But there are some other ones like... examples?
 
 ### Systematically track considerations that donors make
 
-Donors concenred with effective giving have many considerations as they
+Donors concerned with effective giving have many considerations as they
 think through their decision. These include:
 
 * Giving now vs later
