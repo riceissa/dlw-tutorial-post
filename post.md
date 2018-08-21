@@ -1,7 +1,7 @@
 ---
 title: "Donations List Website: tutorial and request for feedback"
 author: Issa Rice
-date: 2018-08-18
+date: 2018-08-20
 ---
 
 # Introduction
