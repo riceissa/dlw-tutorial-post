@@ -31,6 +31,23 @@ focus our efforts for future development.
 This section is a tutorial of the main features of Donations List Website
 (DLW), with a focus on the parts that are probably non-obvious to casual users.
 
+## Main page
+
+The main page of DLW shows information aggregated from all donations tracked by the site.
+The main page has the path starting with `/` or `/index.php`.
+
+The main page of DLW has an optional parameter called `display` that changes
+the kind and amount of donations listed.
+Currently, the possible values are:
+
+* [`individual-scale`](https://donations.vipulnaik.com/?display=individual-scale),
+  which displays donations made by individuals (in other words, excluding
+  donations made by private foundations and other group entities).
+* [`full`](https://donations.vipulnaik.com/?display=full),
+  which displays all donations tracked by DLW.
+* [empty value](https://donations.vipulnaik.com/) (the default), which restricts
+  donations to the top 30 donors, donees, and cause areas.
+
 ## Donor page
 
 Each donor tracked by DLW has a donor page.
@@ -98,20 +115,6 @@ To give some examples:
   (This example is a bit silly and I'm not aware of a better example.)
 
 Donee pages don't have this option, because most donees only work within a single cause area.
-
-## Display parameter on main page
-
-The main page of DLW has an optional parameter called `display` that changes
-the kind and amount of donations listed.
-Currently, the possible values are:
-
-* [`individual-scale`](https://donations.vipulnaik.com/?display=individual-scale),
-  which displays donations made by individuals (in other words, excluding
-  donations made by private foundations and other group entities).
-* [`full`](https://donations.vipulnaik.com/?display=full),
-  which displays all donations tracked by DLW.
-* [empty value](https://donations.vipulnaik.com/) (the default), which restricts
-  donations to the top 30 donors, donees, and cause areas.
 
 ## About page
 
