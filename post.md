@@ -180,7 +180,7 @@ This subsection lists some potential improvements we've thought of.
 ### More foundation giving data
 
 Currently, DLW tracks the giving data of foundations including the
-Bill and Melinda Gates Foundation, Arnold Foundation, Hewlett Foundation,
+Gates Foundation, Arnold Foundation, Hewlett Foundation,
 Good Ventures/Open Philanthropy Project, and Ford Foundation.
 However, there are many more foundations whose donations we could track.
 
