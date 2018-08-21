@@ -33,7 +33,8 @@ This section is a tutorial of the main features of Donations List Website
 
 ## Main page
 
-The main page of DLW shows information aggregated from all donations tracked by the site.
+The [main page](https://donations.vipulnaik.com) of DLW shows information
+aggregated from all donations tracked by the site.
 The main page has the path starting with `/` or `/index.php`.
 
 The main page of DLW has an optional parameter called `display` that changes
