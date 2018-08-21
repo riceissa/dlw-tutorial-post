@@ -237,13 +237,15 @@ but this sort of work is also valuable for better classifying donations.
 
 ### Include giving data (of existing donors/donees) in a more timely manner
 
-Even after we add donation data for a donor or donee, new donations
+Even after we add donations data for a donor or donee, new donations
 are made over time, so there is a question of how often DLW should update
-donation data for existing donors and donees.
+the data for existing donors and donees.
 Currently the updating schedule is somewhat arbitrary.
 
-We have a [series of steps](https://github.com/vipulnaik/donations/blob/master/data-update-playbook.md)
-for updating existing data for donors and donees.
+We have written up a
+[series of steps](https://github.com/vipulnaik/donations/blob/master/data-update-playbook.md)
+for updating existing data for donors and donees, so updating donations data for most
+entities is pretty straightforward.
 
 ### Include giving data (of existing donors/donees) more completely
 
