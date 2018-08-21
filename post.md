@@ -196,7 +196,8 @@ DLW already has an emphasis on these communities, but there's still more that ca
 ### Add more money moved data
 
 Currently we have only entered claimed money moved data for GiveWell.
-But there are some other ones like... examples?
+However there are some other entities that publish money moved data, like
+[Animal Charity Evaluators](https://animalcharityevaluators.org/about/impact/giving-metrics/).
 
 ### Systematically track considerations that donors make
 
@@ -204,7 +205,7 @@ Donors concerned with effective giving have many considerations as they
 think through their decision. These include:
 
 * Giving now vs later
-* Donor coordination and giver's dilemma
+* [Donor coordination and giver's dilemma](https://blog.givewell.org/2014/12/02/donor-coordination-and-the-givers-dilemma/)
 * Donating to a single charity vs multiple charities
 * How to weigh local knowledge vs analyses published by others
 * How much weight to place on cost-effectiveness calculations vs less quantitative forms of modeling and reasoning
