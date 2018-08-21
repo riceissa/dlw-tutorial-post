@@ -140,7 +140,8 @@ to hear from you what excites you most about DLW, what you could see yourself
 using it for, what improvements would make you use it more, and so on.
 
 Below, we provide some structure for feedback. We would appreciate feedback as (1) comments
-on this post, or (2) submissions to [this Google Form]() (TODO: add link).
+on this post, or (2) submissions to
+[this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfWp8OZV8lT36jn9r6UwcXr1vq7ON4LkIHE5s4wHEP6vOruwg/viewform?usp=sf_link).
 The differences between the two are that
 the Google Form has fields for each question (more structure),
 can be submitted anonymously, and responses will not be shared publicly.
